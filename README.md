@@ -1,5 +1,5 @@
 # Yummie-App
-#### This is a food application that displays a list of food from different parts of the world. 
+#### This is a food ordering application. 
 # Language
 - Swift 5
 # Tools 
