@@ -10,6 +10,5 @@
 - iPhone
 - iPad
 
-
-![Simulator Screen Shot - iPhone 11 - 2021-06-18 at 18 38 51](https://user-images.githubusercontent.com/35179563/122598358-a2b4d880-d064-11eb-9529-9b2302e0e9e4.png) ![Simulator Screen Shot - iPhone 11 - 2021-06-18 at 18 38 40](https://user-images.githubusercontent.com/35179563/122598416-b52f1200-d064-11eb-8368-92e19b0c23f4.png)
-
+<img width="343" alt="Screenshot 2021-06-18 at 19 29 47" src="https://user-images.githubusercontent.com/35179563/122603275-fd9dfe00-d06b-11eb-9821-d3732eb274df.png">
+<img width="335" alt="Screenshot 2021-06-18 at 19 30 17" src="https://user-images.githubusercontent.com/35179563/122603291-01ca1b80-d06c-11eb-91fb-c6d4c5a1246e.png">
